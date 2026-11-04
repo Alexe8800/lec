@@ -1,0 +1,14 @@
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\companov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\companov.AssemblyInfoInputs.cache
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\companov.AssemblyInfo.cs
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\companov.csproj.CoreCompileInputs.cache
+C:\Users\hyesos\Desktop\лекция\companov\bin\Debug\net10.0\companov.exe
+C:\Users\hyesos\Desktop\лекция\companov\bin\Debug\net10.0\companov.deps.json
+C:\Users\hyesos\Desktop\лекция\companov\bin\Debug\net10.0\companov.runtimeconfig.json
+C:\Users\hyesos\Desktop\лекция\companov\bin\Debug\net10.0\companov.dll
+C:\Users\hyesos\Desktop\лекция\companov\bin\Debug\net10.0\companov.pdb
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\companov.dll
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\refint\companov.dll
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\companov.pdb
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\companov.genruntimeconfig.cache
+C:\Users\hyesos\Desktop\лекция\companov\obj\Debug\net10.0\ref\companov.dll
